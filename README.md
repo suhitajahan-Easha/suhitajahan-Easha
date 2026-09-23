@@ -1,5 +1,5 @@
 
-<img src ="/github_banner.png" alt="Hello World">
+<img src ="github_banner.png" alt="Hello World">
 <br>
 
 # Hey there, I’m Suhita ! 👋
