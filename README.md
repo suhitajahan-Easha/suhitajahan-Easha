@@ -1,4 +1,7 @@
 
+<img src ="/github_banner.png" alt="Hello World">
+<br>
+
 # Hey there, I’m Suhita ! 👋
 Currently, I'm focusing on enhancing my skills in front-end development and diving deeper into React Native for cross-platform mobile app development. Using modern front-end technologies, I build clean, modular, and scalable interfaces. From landing pages to full web builds, I focus on usability, responsiveness, and speed.
 
