@@ -92,7 +92,7 @@ My projects focus on:
 I'm always interested in learning, building, and connecting with other developers.
 
 <p>
-  <a href="suhitajahaneasha@gmail.com">Email</a> ·
+  <a href="mailto:suhitajahaneasha@gmail.com">Email</a> ·
   <a href="https://github.com/suhitajahan-Easha">GitHub</a>
 </p>
 
