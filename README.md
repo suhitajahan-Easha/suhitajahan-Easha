@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="mailto:suhitajahaneasha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suhitajahaneasha%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/suhitajahan-Easha">
-    <img src="https://img.shields.io/badge/GitHub-suhitajahan--Easha-18181B?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ My current focus is **full-stack development with React, Next.js, Node.js, and m
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
@@ -92,7 +92,7 @@ My projects focus on:
 I'm always interested in learning, building, and connecting with other developers.
 
 <p>
-  <a href="mailto:suhitajahaneasha@gmail.com">Email</a> ·
+  <a href="suhitajahaneasha@gmail.com">Email</a> ·
   <a href="https://github.com/suhitajahan-Easha">GitHub</a>
 </p>
 
