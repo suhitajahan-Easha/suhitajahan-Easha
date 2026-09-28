@@ -1,50 +1,35 @@
-<!-- ======================= BANNER ======================= -->
-
 <p align="center">
   <img src="./github_banner.png" alt="Suhita Jahan Easha - Full Stack Developer" width="100%" />
 </p>
 
-<!-- ======================= INTRO ======================= -->
+<h1 align="center">Suhita Jahan Easha</h1>
 
-<h1 align="center">Hi 👋, I'm Suhita Jahan Easha</h1>
-
-<h3 align="center">
-  Full Stack Developer | CSTE Graduate | Building Modern Web Applications
-</h3>
+<p align="center">
+  Full Stack Developer · CSTE Graduate · Web Development Enthusiast
+</p>
 
 <p align="center">
   <a href="mailto:suhitajahaneasha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suhitajahaneasha%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-suhitajahaneasha%40gmail.com-18181B?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/suhitajahan-Easha">
-    <img src="https://img.shields.io/badge/GitHub-suhitajahan--Easha-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-suhitajahan--Easha-18181B?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a **Computer Science and Telecommunication Engineering (CSTE) graduate from Noakhali Science and Technology University (NSTU)** with a strong interest in software development and modern web technologies.
+I am a **Computer Science and Telecommunication Engineering (CSTE) graduate from Noakhali Science and Technology University (NSTU)** with a strong interest in modern web development and software engineering.
 
-Currently, I'm developing my skills in **AI-driven full-stack development** and building practical projects to strengthen my frontend, backend, database, and problem-solving skills.
+I build responsive, user-focused web applications and continuously improve my skills through hands-on projects and practical development.
 
-I enjoy turning ideas into clean, functional, and user-friendly web applications.
-
-### 🚀 What I'm Currently Doing
-
-- 💻 Building full-stack web applications
-- ⚛️ Developing applications with React and Next.js
-- 🌐 Learning backend development with Node.js and Express.js
-- 🗄️ Working with MongoDB and PostgreSQL
-- 🎨 Creating responsive interfaces with Tailwind CSS
-- 🤖 Exploring AI-assisted development
-- 📚 Continuously improving my software engineering skills
-- 🔨 Building projects to gain real-world development experience
+My current focus is **full-stack development with React, Next.js, Node.js, and modern database technologies**, while also exploring AI-assisted development.
 
 ---
 
-## 🛠️ Core Technologies
+## Tech Stack
 
 ### Frontend
 
@@ -52,19 +37,13 @@ I enjoy turning ideas into clean, functional, and user-friendly web applications
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### Tools & Technologies
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
@@ -72,25 +51,50 @@ I enjoy turning ideas into clean, functional, and user-friendly web applications
 
 ---
 
-## 💡 What I Like Building
+## Areas of Focus
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   🌐 Modern Web Applications                │
-│                                              │
-│   ⚛️ Interactive Frontend Experiences       │
-│                                              │
-│   🔐 Authentication & Secure Systems        │
-│                                              │
-│   🗄️ Full-Stack Applications                │
-│                                              │
-│   🤖 AI-Powered Applications                 │
-│                                              │
-│   📊 Data-Driven Solutions                  │
-│                                              │
-└──────────────────────────────────────────────┘
+- Full-stack web application development
+- Responsive and accessible user interfaces
+- REST API development
+- Database-driven applications
+- Authentication and application security
+- Modern React and Next.js development
+- AI-assisted software development
 
+---
+
+## What I Build
+
+I enjoy working on projects that combine **clean interfaces, practical functionality, and reliable application architecture**.
+
+My projects focus on:
+
+- Building responsive web experiences
+- Creating reusable React components
+- Developing full-stack applications
+- Working with APIs and databases
+- Solving real-world development problems
+
+---
+
+## Currently Learning
+
+- Advanced Next.js and React
+- Backend architecture with Node.js and Express
+- Database design and optimization
+- Full-stack application development
+- AI-assisted development workflows
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, building, and connecting with other developers.
+
+<p>
+  <a href="mailto:suhitajahaneasha@gmail.com">Email</a> ·
+  <a href="https://github.com/suhitajahan-Easha">GitHub</a>
+</p>
 
 
 
