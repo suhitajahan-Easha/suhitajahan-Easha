@@ -39,7 +39,11 @@ My current focus is **full-stack development with React, Next.js, Node.js, Expre
 
 ### Backend & Database
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" /><img src="https://img.shields.io/badge/JWT-18181B?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /><img src="https://img.shields.io/badge/Better_Auth-18181B?style=flat-square&logo=auth0&logoColor=white" alt="Better Auth" /><img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="48" alt="JWT" />
+  <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" height="48" alt="Better Auth" />
+  <img src="https://api.iconify.design/mdi/api.svg?color=%23FFFFFF" height="48" alt="REST API" />
+</p>
 
 ### Tools
 
