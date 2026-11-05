@@ -42,7 +42,7 @@ My current focus is **full-stack development with React, Next.js, Node.js, Expre
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
   <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" height="48" alt="JWT" />
   <img src="https://cdn.simpleicons.org/betterauth/FFFFFF" height="48" alt="Better Auth" />
-  <img src="https://api.iconify.design/mdi/api.svg?color=%23FFFFFF" height="48" alt="REST API" />
+  
 </p>
 
 ### Tools
