@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:suhitajahaneasha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/suhitajahan-Easha">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -25,7 +25,7 @@ I am a **Computer Science and Telecommunication Engineering (CSTE) graduate from
 
 I build responsive, user-focused web applications and continuously improve my skills through hands-on projects and practical development.
 
-My current focus is **full-stack development with React, Next.js, Node.js, and modern database technologies**, while also exploring AI-assisted development.
+My current focus is **full-stack development with React, Next.js, Node.js, Express.js, and MongoDB**, while also exploring AI-assisted development.
 
 ---
 
@@ -40,13 +40,19 @@ My current focus is **full-stack development with React, Next.js, Node.js, and m
 ### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Better%20Auth-Authentication-18181B?style=flat-square" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/REST%20API-Backend%20Development-18181B?style=flat-square" alt="REST API" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code, Vercel" />
 </p>
 
 ---
@@ -54,10 +60,10 @@ My current focus is **full-stack development with React, Next.js, Node.js, and m
 ## Areas of Focus
 
 - Full-stack web application development
-- Responsive and accessible user interfaces
+- Responsive and user-friendly interfaces
 - REST API development
-- Database-driven applications
-- Authentication and application security
+- Database-driven applications with MongoDB
+- Authentication and application security with JWT and Better Auth
 - Modern React and Next.js development
 - AI-assisted software development
 
@@ -73,18 +79,19 @@ My projects focus on:
 - Creating reusable React components
 - Developing full-stack applications
 - Working with APIs and databases
+- Implementing authentication systems
 - Solving real-world development problems
 
 ---
 
 ## Currently Learning
 
-- Advanced Next.js and React
-- Backend architecture with Node.js and Express
-- Database design and optimization
-- Full-stack application development
+- Advanced Next.js and React development
+- Scalable backend architecture with Node.js and Express.js
+- Secure authentication and authorization
+- MongoDB database design and optimization
+- TypeScript best practices and application architecture
 - AI-assisted development workflows
-
 ---
 
 ## Let's Connect
